@@ -1,0 +1,19 @@
+import java.util.Vector;
+
+public class account {
+
+  private Integer Accnumber;
+
+  public string custName;
+
+  public Integer balance;
+
+    public Vector  mybank;
+
+  public void update() {
+  }
+
+  public void checkacc() {
+  }
+
+}
