@@ -1,0 +1,14 @@
+import java.util.Vector;
+
+public class e-book management system {
+
+  public Integer enterid;
+
+  private Integer user;
+
+    public Vector  myinternet;
+
+  private void availability() {
+  }
+
+}
