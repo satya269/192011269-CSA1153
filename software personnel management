@@ -1,0 +1,25 @@
+public class central management system {
+
+  public string employeename;
+
+  public Integer employeenumber;
+
+  public Integer details;
+
+    
+  public void leavetaken() {
+  }
+
+  public void tax() {
+  }
+
+  public void loan() {
+  }
+
+  public void salary() {
+  }
+
+  private void centralmanagementsystem() {
+  }
+
+}
