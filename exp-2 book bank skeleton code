@@ -1,0 +1,26 @@
+import java.util.Vector;
+
+public class admin {
+
+  public string studentDetails;
+
+  public Integer booklist;
+
+    public Vector  mycompuer;
+
+  public void verifydetails() {
+  }
+
+  public void checkavailable() {
+  }
+
+  public void issuebooks() {
+  }
+
+  public void ordernewauthor() {
+  }
+
+  public void maintainStudentRecord() {
+  }
+
+}
